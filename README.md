@@ -1,3 +1,6 @@
+<img src="https://img.shields.io/badge/%E2%9A%A0%20This%20user%20is%20a%20registered%20cybercriminal.-Learn%20at-orange?style=flat-square" alt="Cybercriminal Badge" align="left">
+<br><br>
+
 # 💫 About Me:
 👋 Hey, I’m kikou<br><br>🚀 Passionate developer interested in reverse engineering, custom tools, and everything around Discord.<br>Currently working on a new Discord client with a lot of cool ideas in development. ⚙️✨<br><br>💡 I enjoy experimenting, learning new things, and building clean & efficient projects.<br><br>🛠️ What I Do<br>🔧 Custom tools & personal projects<br>💻 Discord-related development<br>⚡ Optimization & automation<br>🎨 Clean and simple UI/UX<br>📌 Important<br><br>❌ I’m not looking for collaborators<br>❌ I’m not looking for help<br><br>The project is moving forward at my own pace 😄<br><br>💬 Contact<br><br>I really enjoy talking and meeting new people, so feel free to contact me on Discord! 🫶<br><br>📫 Discord: kikou_ldc<br><br>🍣 Fun Fact<br><br>I could honestly eat sushi every single day 🍱🔥
 
@@ -23,5 +26,3 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=kikouduo&icon=2&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
