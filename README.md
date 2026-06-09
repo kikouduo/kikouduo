@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/%E2%9A%A0%20This%20user%20is%20a%20registered%20cybercriminal.-Learn%20at-orange?style=flat-square" alt="Cybercriminal Badge" align="left">
+<img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F%20The%20Official%20Kikou-Verified-blue?style=flat-square" alt="Official Badge" align="left">
 <br><br>
 
 # 💫 About Me:
